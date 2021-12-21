@@ -1,1 +1,3 @@
-print TEXT
+print TEXT1
+
+print TEXT2
